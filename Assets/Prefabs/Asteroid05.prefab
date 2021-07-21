@@ -145,3 +145,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   explosion: {fileID: 4467893561144295550, guid: a5f786e173f9d544f8aac89a7d69945e, type: 3}
+  points: 300

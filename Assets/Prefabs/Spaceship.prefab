@@ -119,7 +119,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   explosion: {fileID: 4467893561144295550, guid: a5f786e173f9d544f8aac89a7d69945e, type: 3}
   cannon: {fileID: 2744657319841619687}
-  laser: {fileID: 6711905394154304423, guid: f52e80e2ad120614fafa306b1351fc55, type: 3}
+  laser: {fileID: 6711905394154304423, guid: 4a8d97d1eb7c3c84286b509cc6d32724, type: 3}
   lasers:
   - {fileID: 6711905394154304423, guid: 4a8d97d1eb7c3c84286b509cc6d32724, type: 3}
   - {fileID: 6711905394154304423, guid: 82460e65d7eeefe43b0c3dfb5ed816c4, type: 3}
